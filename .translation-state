@@ -1,6 +1,6 @@
 {
   "LastProcessedCommit": "4dc2b434be8174007a0424edb50176b1fcefcf55",
-  "LastTranslatedCommit": "f5755fae8fb6154ceda88420649f9f7651d52d09",
+  "LastTranslatedCommit": "07eec72c9197651fc29084e993ebc03a3319cdd7",
   "Items": {
     "455920a9c878b8d6783b05fdeee9c6fcbecf1dc5": {
       "FileHash": "455920a9c878b8d6783b05fdeee9c6fcbecf1dc5",
@@ -14756,9 +14756,17 @@
       "TargetFilePath": null,
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
-      "HandbackDateTime": "0001-01-01T00:00:00",
-      "HandbackException": null,
-      "HandbackFailureTimes": 0,
+      "HandbackDateTime": "2016-07-08T18:43:32.1289681Z",
+      "HandbackException": {
+        "internal_error_code": "handback_validate_file_name_invalide",
+        "internal_error_message": "Handback file name: gwhoa0ml.dn0 is different with handoff file name: 2d22f0c8-a6eb-4745-a6e3-11779115a1d7.c4c2f4f3cc12ee5a25d999d557b01f69a56b86c8.de-de.",
+        "internal_error_retriable": false,
+        "exception_message": "Handback file name: gwhoa0ml.dn0 is different with handoff file name: 2d22f0c8-a6eb-4745-a6e3-11779115a1d7.c4c2f4f3cc12ee5a25d999d557b01f69a56b86c8.de-de.",
+        "exception_type": "Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException",
+        "stack_trace": null,
+        "extended_information": null
+      },
+      "HandbackFailureTimes": 1,
       "UpdatedDateTime": "0001-01-01T00:00:00",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
