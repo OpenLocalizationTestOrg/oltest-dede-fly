@@ -1,6 +1,6 @@
 {
   "LastProcessedCommit": "791de6e0ba9e866d4edcb71717feada8c5fe4f59",
-  "LastTranslatedCommit": "cc19854e81e0e54b5c0c3c84325cda8bcbf95940",
+  "LastTranslatedCommit": "26d6c031c49d6cf97024b791dc7c9fe9be605f53",
   "Items": {
     "455920a9c878b8d6783b05fdeee9c6fcbecf1dc5": {
       "FileHash": "455920a9c878b8d6783b05fdeee9c6fcbecf1dc5",
@@ -8588,9 +8588,17 @@
       "TargetFilePath": null,
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
-      "HandbackDateTime": "0001-01-01T00:00:00",
-      "HandbackException": null,
-      "HandbackFailureTimes": 0,
+      "HandbackDateTime": "2016-07-08T14:48:21.5281949Z",
+      "HandbackException": {
+        "internal_error_code": "handback_validate_file_name_invalide",
+        "internal_error_message": "Handback file name: mncn5cmr.knb is different with handoff file name: 09578631-af7c-40bb-b639-44eb68bd8634.4837da72bd38eac70b73c81a49b9c6e8eb26649a.de-de.",
+        "internal_error_retriable": false,
+        "exception_message": "Handback file name: mncn5cmr.knb is different with handoff file name: 09578631-af7c-40bb-b639-44eb68bd8634.4837da72bd38eac70b73c81a49b9c6e8eb26649a.de-de.",
+        "exception_type": "Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException",
+        "stack_trace": null,
+        "extended_information": null
+      },
+      "HandbackFailureTimes": 1,
       "UpdatedDateTime": "0001-01-01T00:00:00",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
