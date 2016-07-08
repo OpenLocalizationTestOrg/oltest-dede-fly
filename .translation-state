@@ -1,6 +1,6 @@
 {
   "LastProcessedCommit": "d1648b34746295263be4d2d84c276697c2f98a9d",
-  "LastTranslatedCommit": "d10313a5c6a1441da24d491693385329fac4d0b0",
+  "LastTranslatedCommit": "625b34557f1403f62245efeb58dfbb43d09f753b",
   "Items": {
     "455920a9c878b8d6783b05fdeee9c6fcbecf1dc5": {
       "FileHash": "455920a9c878b8d6783b05fdeee9c6fcbecf1dc5",
@@ -11672,9 +11672,17 @@
       "TargetFilePath": null,
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
-      "HandbackDateTime": "0001-01-01T00:00:00",
-      "HandbackException": null,
-      "HandbackFailureTimes": 0,
+      "HandbackDateTime": "2016-07-08T16:43:35.6269571Z",
+      "HandbackException": {
+        "internal_error_code": "handback_validate_file_name_invalide",
+        "internal_error_message": "Handback file name: estptzmm.1ig is different with handoff file name: bbc07ae4-bf3f-473b-bdf1-dfe92e7b44fc.2321fe1cfb9db921120f4d556be51fae609b5c3c.de-de.",
+        "internal_error_retriable": false,
+        "exception_message": "Handback file name: estptzmm.1ig is different with handoff file name: bbc07ae4-bf3f-473b-bdf1-dfe92e7b44fc.2321fe1cfb9db921120f4d556be51fae609b5c3c.de-de.",
+        "exception_type": "Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException",
+        "stack_trace": null,
+        "extended_information": null
+      },
+      "HandbackFailureTimes": 1,
       "UpdatedDateTime": "0001-01-01T00:00:00",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
