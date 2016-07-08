@@ -1,6 +1,6 @@
 {
   "LastProcessedCommit": "451c4c286e0debca57fe80868ee993134c42d92a",
-  "LastTranslatedCommit": "f8cebe98d472fa76c2c72c36f064bb184ac26c32",
+  "LastTranslatedCommit": "52f59eff3d7c5508db0b79f5a8945683e5fc880d",
   "Items": {
     "455920a9c878b8d6783b05fdeee9c6fcbecf1dc5": {
       "FileHash": "455920a9c878b8d6783b05fdeee9c6fcbecf1dc5",
@@ -20924,9 +20924,17 @@
       "TargetFilePath": null,
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
-      "HandbackDateTime": "0001-01-01T00:00:00",
-      "HandbackException": null,
-      "HandbackFailureTimes": 0,
+      "HandbackDateTime": "2016-07-08T22:49:31.8181525Z",
+      "HandbackException": {
+        "internal_error_code": "handback_validate_file_name_invalide",
+        "internal_error_message": "Handback file name: btghvzae.4br is different with handoff file name: a8925b88-8f6d-4327-a17e-48af83f62e52.ff0b9aa362eaced4eff2b0e46d917e685276e28e.de-de.",
+        "internal_error_retriable": false,
+        "exception_message": "Handback file name: btghvzae.4br is different with handoff file name: a8925b88-8f6d-4327-a17e-48af83f62e52.ff0b9aa362eaced4eff2b0e46d917e685276e28e.de-de.",
+        "exception_type": "Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException",
+        "stack_trace": null,
+        "extended_information": null
+      },
+      "HandbackFailureTimes": 1,
       "UpdatedDateTime": "0001-01-01T00:00:00",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
