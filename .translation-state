@@ -1,6 +1,6 @@
 {
   "LastProcessedCommit": "b5775170723c047263c58e6486eb7c7b8e25663d",
-  "LastTranslatedCommit": "f3a286f7135efe938da16b3b28e98b09849ab949",
+  "LastTranslatedCommit": "db68fcddb3830c81d590a9ce94eb02a86537db4b",
   "Items": {
     "455920a9c878b8d6783b05fdeee9c6fcbecf1dc5": {
       "FileHash": "455920a9c878b8d6783b05fdeee9c6fcbecf1dc5",
@@ -17840,9 +17840,17 @@
       "TargetFilePath": null,
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
-      "HandbackDateTime": "0001-01-01T00:00:00",
-      "HandbackException": null,
-      "HandbackFailureTimes": 0,
+      "HandbackDateTime": "2016-07-08T20:45:40.0945634Z",
+      "HandbackException": {
+        "internal_error_code": "handback_validate_file_name_invalide",
+        "internal_error_message": "Handback file name: 313msnep.3t4 is different with handoff file name: 76062dd0-4158-4df6-9b67-5f091afa5553.630afb10cf095d360c8d4d86c565004f42cd1450.de-de.",
+        "internal_error_retriable": false,
+        "exception_message": "Handback file name: 313msnep.3t4 is different with handoff file name: 76062dd0-4158-4df6-9b67-5f091afa5553.630afb10cf095d360c8d4d86c565004f42cd1450.de-de.",
+        "exception_type": "Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException",
+        "stack_trace": null,
+        "extended_information": null
+      },
+      "HandbackFailureTimes": 1,
       "UpdatedDateTime": "0001-01-01T00:00:00",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
