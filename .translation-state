@@ -1,5 +1,5 @@
 {
-  "LastProcessedCommit": "f290fc6396f3ba6600200df2bdc5b36f56fff801",
+  "LastProcessedCommit": "6ff805683d6ac3826ae7a50a3a0d44f6ac33398f",
   "LastTranslatedCommit": "7b36442940c196ac4b504b1307c7fbdaa545a320",
   "Items": {
     "455920a9c878b8d6783b05fdeee9c6fcbecf1dc5": {
@@ -10271,6 +10271,41 @@
       "ArchiveFilePath": "ol-archive\\OpenLocalizationTestOrg\\oltest-dede-fly\\ci\\ht\\c0332e89-807d-4705-8041-2bc4314c24cdooooooooooooooooooooooooooooooooooooooooo.a71d18ccff02642a0304681882bd74e3f8247b13.de-de.xlf",
       "ArchiveFileCommit": "e7f826fc541302562aca5aa4090352ed85237875",
       "ArchiveFileDateTime": "2016-07-08T16:23:47.1474349Z",
+      "ArchiveException": null,
+      "BilingualFilePath": null,
+      "BilingualFileCommit": null,
+      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualException": null
+    },
+    "673f2048632d67226a73967c8e7812109cecf435": {
+      "FileHash": "673f2048632d67226a73967c8e7812109cecf435",
+      "SourceFileCommit": "6ff805683d6ac3826ae7a50a3a0d44f6ac33398f",
+      "SourceFilePath": "e2e\\2401abae-80fa-4ba7-97b6-0d6943e1de62ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo.md",
+      "HandoffReason": 1,
+      "DependencyFrom": null,
+      "TokenReference": null,
+      "FilePathList": [
+        "e2e\\2401abae-80fa-4ba7-97b6-0d6943e1de62ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo.md"
+      ],
+      "HasMetadata": false,
+      "TranslationType": 1,
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationTestOrg\\oltest-dede-fly\\ci\\ht\\2401abae-80fa-4ba7-97b6-0d6943e1de62ooooooooooooooooooooooooooooooooooooooooo.213a4d6038d3d6b2eb885f28a9a51416985efce3.de-de.xlf",
+      "HandoffFileCommit": "e8635daee479d9d9a8df9c4198811c0d93010e73",
+      "HandoffDateTime": "2016-07-08T16:24:10.5527533Z",
+      "HandoffPriority": "ht",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
       "ArchiveException": null,
       "BilingualFilePath": null,
       "BilingualFileCommit": null,
