@@ -1,6 +1,6 @@
 {
   "LastProcessedCommit": "6c010928c50253610be2ee17e6ab2da0ccf08ea6",
-  "LastTranslatedCommit": "d53476c4ee7a73ff17fc3f2ac0334183fa473df3",
+  "LastTranslatedCommit": "ca4af9294217770d520120304b2afdea86d2d90e",
   "Items": {
     "455920a9c878b8d6783b05fdeee9c6fcbecf1dc5": {
       "FileHash": "455920a9c878b8d6783b05fdeee9c6fcbecf1dc5",
@@ -2420,9 +2420,17 @@
       "TargetFilePath": null,
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
-      "HandbackDateTime": "0001-01-01T00:00:00",
-      "HandbackException": null,
-      "HandbackFailureTimes": 0,
+      "HandbackDateTime": "2016-07-08T10:45:45.675581Z",
+      "HandbackException": {
+        "internal_error_code": "handback_validate_file_name_invalide",
+        "internal_error_message": "Handback file name: pi12adkb.ntt is different with handoff file name: 8a949a47-fd64-4c8f-bce8-383329ad19b0.fc04f14a44119dcffff476df153174e87f5977ee.de-de.",
+        "internal_error_retriable": false,
+        "exception_message": "Handback file name: pi12adkb.ntt is different with handoff file name: 8a949a47-fd64-4c8f-bce8-383329ad19b0.fc04f14a44119dcffff476df153174e87f5977ee.de-de.",
+        "exception_type": "Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException",
+        "stack_trace": null,
+        "extended_information": null
+      },
+      "HandbackFailureTimes": 1,
       "UpdatedDateTime": "0001-01-01T00:00:00",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
