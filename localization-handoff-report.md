@@ -1,29 +1,11 @@
 # <a name='report-top'></a> Localization Handoff Report
 
 ## Summary
- Total Files | 1
+ Total Files | 0
 
 ## File List
- Source File | Status | Details 
- ----------- | ------ | ------- 
- [e2e\771b19c3-4de7-4cc5-a963-56c8d6bde88d.md](https://github.com/OpenLocalizationTestOrg/oltest/blob/a5cbf7ec927e42411493f54abd93402866013eec/e2e/771b19c3-4de7-4cc5-a963-56c8d6bde88d.md) | OutofSyncHandedBackSuccess | [Details](#0f9346d9b15b795fbe263a0b3cf038fda8e308671)
 
 ## Item Details
-##### <a name='0f9346d9b15b795fbe263a0b3cf038fda8e308671'></a> Source: [e2e\771b19c3-4de7-4cc5-a963-56c8d6bde88d.md](https://github.com/OpenLocalizationTestOrg/oltest/blob/a5cbf7ec927e42411493f54abd93402866013eec/e2e/771b19c3-4de7-4cc5-a963-56c8d6bde88d.md)
-* Status: OutofSyncHandedBackSuccess
-* Target File: 
-* Handoff File: [771b19c3-4de7-4cc5-a963-56c8d6bde88d.dc532d43688dd18983da8fb2f99063a7174d0592.de-de.xlf](https://github.com/OpenLocalizationTestOrg/olhandoff-e2e/blob/35c14693f70e0937ba8c3982bfee6cc05153220a/ol-handoff/OpenLocalizationTestOrg/oltest-dede-fly/ci/ht/771b19c3-4de7-4cc5-a963-56c8d6bde88d.dc532d43688dd18983da8fb2f99063a7174d0592.de-de.xlf)
-* Handoff Datetime: 2016-07-09 21:02:22
-* Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* Current Target File: [e2e\771b19c3-4de7-4cc5-a963-56c8d6bde88d.md](https://github.com/OpenLocalizationTestOrg/oltest-dede-fly/blob/38c45e2deb627b8b1f790998f1769b95029f3a93/e2e/771b19c3-4de7-4cc5-a963-56c8d6bde88d.md)
-* Current Handback File: [771b19c3-4de7-4cc5-a963-56c8d6bde88d.dc532d43688dd18983da8fb2f99063a7174d0592.de-de.xlf](https://github.com/OpenLocalizationTestOrg/olhandback-e2e/blob/afdda75424d2edc387d6a5ee1af023dd5b0db624/ol-handback/OpenLocalizationTestOrg/oltest-dede-fly/ci/ht/771b19c3-4de7-4cc5-a963-56c8d6bde88d.dc532d43688dd18983da8fb2f99063a7174d0592.de-de.xlf)
-* Current Handback Datetime: 2016-07-09 21:01:55
-* [Back to Top](#report-top)
-
 
 ## Error Details
 
