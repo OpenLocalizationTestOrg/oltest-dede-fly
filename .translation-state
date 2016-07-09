@@ -1,6 +1,6 @@
 {
   "LastProcessedCommit": "fc13f58683ff74f432655e49113f1c81feea9eff",
-  "LastTranslatedCommit": "467b51ae299f752a3f04badac071ccdd0d4f61e4",
+  "LastTranslatedCommit": "ce79543a0e62d44717d8a7b9d057911cb2d431bf",
   "Items": {
     "455920a9c878b8d6783b05fdeee9c6fcbecf1dc5": {
       "FileHash": "455920a9c878b8d6783b05fdeee9c6fcbecf1dc5",
@@ -42512,9 +42512,17 @@
       "TargetFilePath": null,
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
-      "HandbackDateTime": "0001-01-01T00:00:00",
-      "HandbackException": null,
-      "HandbackFailureTimes": 0,
+      "HandbackDateTime": "2016-07-09T16:45:21.2695247Z",
+      "HandbackException": {
+        "internal_error_code": "handback_validate_file_name_invalide",
+        "internal_error_message": "Handback file name: vmrcixce.lg3 is different with handoff file name: e41b4bc4-6853-4ac9-9061-e1618de5f125.4b0626a6abf53e08eed8a51e9ed1b334c3c8fd1c.de-de.",
+        "internal_error_retriable": false,
+        "exception_message": "Handback file name: vmrcixce.lg3 is different with handoff file name: e41b4bc4-6853-4ac9-9061-e1618de5f125.4b0626a6abf53e08eed8a51e9ed1b334c3c8fd1c.de-de.",
+        "exception_type": "Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException",
+        "stack_trace": null,
+        "extended_information": null
+      },
+      "HandbackFailureTimes": 1,
       "UpdatedDateTime": "0001-01-01T00:00:00",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
