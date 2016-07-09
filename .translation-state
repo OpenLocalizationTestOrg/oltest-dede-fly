@@ -1,6 +1,6 @@
 {
   "LastProcessedCommit": "10d3aa854980137ffea3c8ece8b3264c1cd39f2b",
-  "LastTranslatedCommit": "8e0cee2999d7d490ebfee6e07734e06c5bf99f6b",
+  "LastTranslatedCommit": "961f19f011370c6c41533af0b55f02e325c0e93f",
   "Items": {
     "455920a9c878b8d6783b05fdeee9c6fcbecf1dc5": {
       "FileHash": "455920a9c878b8d6783b05fdeee9c6fcbecf1dc5",
@@ -45382,9 +45382,17 @@
       "TargetFilePath": null,
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
-      "HandbackDateTime": "0001-01-01T00:00:00",
-      "HandbackException": null,
-      "HandbackFailureTimes": 0,
+      "HandbackDateTime": "2016-07-09T18:45:13.5009115Z",
+      "HandbackException": {
+        "internal_error_code": "handback_validate_file_name_invalide",
+        "internal_error_message": "Handback file name: 3ldmadl0.n20 is different with handoff file name: 4cc0ffd8-0bfc-49c1-9214-7737b05cd5ae.a5cfb10f89391b5d59fb3e3198d64e562dd5f18b.de-de.",
+        "internal_error_retriable": false,
+        "exception_message": "Handback file name: 3ldmadl0.n20 is different with handoff file name: 4cc0ffd8-0bfc-49c1-9214-7737b05cd5ae.a5cfb10f89391b5d59fb3e3198d64e562dd5f18b.de-de.",
+        "exception_type": "Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException",
+        "stack_trace": null,
+        "extended_information": null
+      },
+      "HandbackFailureTimes": 1,
       "UpdatedDateTime": "0001-01-01T00:00:00",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
