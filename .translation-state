@@ -1,5 +1,5 @@
 {
-  "LastProcessedCommit": "e33bd2ab5c084e0c4e2d1b762afa866a3f8b7f07",
+  "LastProcessedCommit": "ae7bb46ef50dec7622849856c573b941b6cf7045",
   "LastTranslatedCommit": "f90875e34394b51aab4265875e18af834ea8868e",
   "Items": {
     "455920a9c878b8d6783b05fdeee9c6fcbecf1dc5": {
@@ -38802,6 +38802,41 @@
       "HandbackException": null,
       "HandbackFailureTimes": 0,
       "UpdatedDateTime": "2016-07-09T14:34:35.0179748Z",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null,
+      "BilingualFilePath": null,
+      "BilingualFileCommit": null,
+      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualException": null
+    },
+    "4fa87ff8ce1ba348ae39760fc5a07dd9694b6f6b": {
+      "FileHash": "4fa87ff8ce1ba348ae39760fc5a07dd9694b6f6b",
+      "SourceFileCommit": "ae7bb46ef50dec7622849856c573b941b6cf7045",
+      "SourceFilePath": "e2e\\b.md",
+      "HandoffReason": 1,
+      "DependencyFrom": null,
+      "TokenReference": null,
+      "FilePathList": [
+        "e2e\\b.md"
+      ],
+      "HasMetadata": false,
+      "TranslationType": 1,
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationTestOrg\\oltest-dede-fly\\ci\\ht\\b.63290e5768f688058c7b37413b0a5c26c308f864.de-de.xlf",
+      "HandoffFileCommit": "64d34b2eed387cb1af719a87db5e1fbfcd64b999",
+      "HandoffDateTime": "2016-07-09T14:34:56.5142081Z",
+      "HandoffPriority": "ht",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
