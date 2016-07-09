@@ -1,6 +1,6 @@
 {
   "LastProcessedCommit": "7e5e19fd3a1082d36db5fa043da6e2b9db1df5ea",
-  "LastTranslatedCommit": "556277833d25a80ad9dc3d05e2f91273a8ba96ac",
+  "LastTranslatedCommit": "77744d2de725d65310d6c57bea6a1392fd2f397f",
   "Items": {
     "455920a9c878b8d6783b05fdeee9c6fcbecf1dc5": {
       "FileHash": "455920a9c878b8d6783b05fdeee9c6fcbecf1dc5",
@@ -33260,9 +33260,17 @@
       "TargetFilePath": null,
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
-      "HandbackDateTime": "0001-01-01T00:00:00",
-      "HandbackException": null,
-      "HandbackFailureTimes": 0,
+      "HandbackDateTime": "2016-07-09T08:45:52.8600944Z",
+      "HandbackException": {
+        "internal_error_code": "handback_validate_file_name_invalide",
+        "internal_error_message": "Handback file name: sxfguvmk.goz is different with handoff file name: 63da672e-9e61-433e-a6fc-dc9c593180e5.fdd0a2a96321e91a15fc2a70fe88e818b67fec94.de-de.",
+        "internal_error_retriable": false,
+        "exception_message": "Handback file name: sxfguvmk.goz is different with handoff file name: 63da672e-9e61-433e-a6fc-dc9c593180e5.fdd0a2a96321e91a15fc2a70fe88e818b67fec94.de-de.",
+        "exception_type": "Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException",
+        "stack_trace": null,
+        "extended_information": null
+      },
+      "HandbackFailureTimes": 1,
       "UpdatedDateTime": "0001-01-01T00:00:00",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
