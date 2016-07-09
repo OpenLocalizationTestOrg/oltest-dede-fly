@@ -1,6 +1,6 @@
 {
   "LastProcessedCommit": "92ecab0440111a97650a870dd0c547210e4f6b8e",
-  "LastTranslatedCommit": "f68cb875cee9d25e7199e3d219563033983406f7",
+  "LastTranslatedCommit": "1aa6c55fc054b6111ec20b772cbe5c275de03bcf",
   "Items": {
     "455920a9c878b8d6783b05fdeee9c6fcbecf1dc5": {
       "FileHash": "455920a9c878b8d6783b05fdeee9c6fcbecf1dc5",
@@ -30176,9 +30176,17 @@
       "TargetFilePath": null,
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
-      "HandbackDateTime": "0001-01-01T00:00:00",
-      "HandbackException": null,
-      "HandbackFailureTimes": 0,
+      "HandbackDateTime": "2016-07-09T06:45:31.3576388Z",
+      "HandbackException": {
+        "internal_error_code": "handback_validate_file_name_invalide",
+        "internal_error_message": "Handback file name: f0ukzyx0.wfm is different with handoff file name: a7783b07-b012-4e32-8f4c-963be61f232a.e789dadf5ffef6d44a60bc49a90bff645e81a7fa.de-de.",
+        "internal_error_retriable": false,
+        "exception_message": "Handback file name: f0ukzyx0.wfm is different with handoff file name: a7783b07-b012-4e32-8f4c-963be61f232a.e789dadf5ffef6d44a60bc49a90bff645e81a7fa.de-de.",
+        "exception_type": "Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException",
+        "stack_trace": null,
+        "extended_information": null
+      },
+      "HandbackFailureTimes": 1,
       "UpdatedDateTime": "0001-01-01T00:00:00",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
