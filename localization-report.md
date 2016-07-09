@@ -3,9 +3,9 @@
 ## Summary
  Property | Value 
  -------- | ----- 
- Total Files | 3
+ Total Files | 5
 [ Handoff Failed Files ](#handoff-failed-list)| 0
-[ Handoff Success Files ](#handoff-success-list)| 0
+[ Handoff Success Files ](#handoff-success-list)| 2
 [ Archive Failed Files ](#archive-failed-list)| 0
 [ Archive Success Files ](#archive-success-list)| 0
 [ Handback Failed Files ](#handback-failed-list)| 0
@@ -16,6 +16,10 @@
 ## <a name='handoff-failed-list'></a> Handoff Failed File List
 
 ## <a name='handoff-success-list'></a> Handoff Success File List
+ Source File | Status | Details 
+ ----------- | ------ | ------- 
+ [e2e\20ddb306-013c-4d91-a71b-bc2b945e6cba.md](https://github.com/OpenLocalizationTestOrg/oltest/blob/68754c8fb680c4139c60aa418712f908cebec298/e2e/20ddb306-013c-4d91-a71b-bc2b945e6cba.md) | HandedOffSuccess | [Details](#3c140d0180e01b62d2ea675f650ce264f7738baa2)
+ [e2e\bf5359f0-aed8-42c8-a067-7eef6bcac974.md](https://github.com/OpenLocalizationTestOrg/oltest/blob/68754c8fb680c4139c60aa418712f908cebec298/e2e/bf5359f0-aed8-42c8-a067-7eef6bcac974.md) | HandedOffSuccess | [Details](#f6a31c6a48741bb3d67f7a9e1fde5a2420c19fb23)
 
 ## <a name='archive-failed-list'></a> Archive Failed File List
 
@@ -29,15 +33,15 @@
  Source File | Status | Details 
  ----------- | ------ | ------- 
  [e2e\1d9086d3-24cb-4fe1-a33c-b9c39dbf1261.md](https://github.com/OpenLocalizationTestOrg/oltest/blob/379808778367559c81a8e0e2e6034cfebc374116/e2e/1d9086d3-24cb-4fe1-a33c-b9c39dbf1261.md) | InSyncHandedBackSuccess | [Details](#7db59a4302ec88a8c6c0d32f4c1bd5869a1274971)
- [e2e\db0195a5-70e3-4ef2-8313-639f39616037.md](https://github.com/OpenLocalizationTestOrg/oltest/blob/379808778367559c81a8e0e2e6034cfebc374116/e2e/db0195a5-70e3-4ef2-8313-639f39616037.md) | InSyncHandedBackSuccess | [Details](#682d8b03d136f93ab525ae1f1bda7edfb75a35682)
+ [e2e\db0195a5-70e3-4ef2-8313-639f39616037.md](https://github.com/OpenLocalizationTestOrg/oltest/blob/379808778367559c81a8e0e2e6034cfebc374116/e2e/db0195a5-70e3-4ef2-8313-639f39616037.md) | InSyncHandedBackSuccess | [Details](#682d8b03d136f93ab525ae1f1bda7edfb75a35684)
 
 ## <a name='ignored-list'></a> Ignored File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [.localization-config](https://github.com/OpenLocalizationTestOrg/oltest/blob/379808778367559c81a8e0e2e6034cfebc374116/.localization-config) | Ignored | [Details](#3d4f252ac210baf56311d7e97dcc2db10974dbd20)
+ [.localization-config](https://github.com/OpenLocalizationTestOrg/oltest/blob/68754c8fb680c4139c60aa418712f908cebec298/.localization-config) | Ignored | [Details](#3d4f252ac210baf56311d7e97dcc2db10974dbd20)
 
 ## Item Details
-##### <a name='3d4f252ac210baf56311d7e97dcc2db10974dbd20'></a> Source: [.localization-config](https://github.com/OpenLocalizationTestOrg/oltest/blob/379808778367559c81a8e0e2e6034cfebc374116/.localization-config)
+##### <a name='3d4f252ac210baf56311d7e97dcc2db10974dbd20'></a> Source: [.localization-config](https://github.com/OpenLocalizationTestOrg/oltest/blob/68754c8fb680c4139c60aa418712f908cebec298/.localization-config)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -61,7 +65,31 @@
 * Handback Datetime: 2016-07-09 18:28:55
 * [Back to Top](#report-top)
 
-##### <a name='682d8b03d136f93ab525ae1f1bda7edfb75a35682'></a> Source: [e2e\db0195a5-70e3-4ef2-8313-639f39616037.md](https://github.com/OpenLocalizationTestOrg/oltest/blob/379808778367559c81a8e0e2e6034cfebc374116/e2e/db0195a5-70e3-4ef2-8313-639f39616037.md)
+##### <a name='3c140d0180e01b62d2ea675f650ce264f7738baa2'></a> Source: [e2e\20ddb306-013c-4d91-a71b-bc2b945e6cba.md](https://github.com/OpenLocalizationTestOrg/oltest/blob/68754c8fb680c4139c60aa418712f908cebec298/e2e/20ddb306-013c-4d91-a71b-bc2b945e6cba.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [20ddb306-013c-4d91-a71b-bc2b945e6cba.80fd1bf7ee1abfef822f18a3331aab87ecdfa561.de-de.xlf](https://github.com/OpenLocalizationTestOrg/olhandoff-e2e/blob/e4c4c839787e5d28d18d7400c5cd722b932d30a6/ol-handoff/OpenLocalizationTestOrg/oltest-dede-fly/ci/ht/20ddb306-013c-4d91-a71b-bc2b945e6cba.80fd1bf7ee1abfef822f18a3331aab87ecdfa561.de-de.xlf)
+* Handoff Datetime: 2016-07-09 18:29:23
+* Handoff Reason: Include
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* [Back to Top](#report-top)
+
+##### <a name='f6a31c6a48741bb3d67f7a9e1fde5a2420c19fb23'></a> Source: [e2e\bf5359f0-aed8-42c8-a067-7eef6bcac974.md](https://github.com/OpenLocalizationTestOrg/oltest/blob/68754c8fb680c4139c60aa418712f908cebec298/e2e/bf5359f0-aed8-42c8-a067-7eef6bcac974.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [bf5359f0-aed8-42c8-a067-7eef6bcac974.0ee1fc8e5c944f39eac928100786a6d15aac394f.de-de.xlf](https://github.com/OpenLocalizationTestOrg/olhandoff-e2e/blob/e4c4c839787e5d28d18d7400c5cd722b932d30a6/ol-handoff/OpenLocalizationTestOrg/oltest-dede-fly/ci/ht/bf5359f0-aed8-42c8-a067-7eef6bcac974.0ee1fc8e5c944f39eac928100786a6d15aac394f.de-de.xlf)
+* Handoff Datetime: 2016-07-09 18:29:23
+* Handoff Reason: Include
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* [Back to Top](#report-top)
+
+##### <a name='682d8b03d136f93ab525ae1f1bda7edfb75a35684'></a> Source: [e2e\db0195a5-70e3-4ef2-8313-639f39616037.md](https://github.com/OpenLocalizationTestOrg/oltest/blob/379808778367559c81a8e0e2e6034cfebc374116/e2e/db0195a5-70e3-4ef2-8313-639f39616037.md)
 * Status: InSyncHandedBackSuccess
 * Target File: [e2e\db0195a5-70e3-4ef2-8313-639f39616037.md](https://github.com/OpenLocalizationTestOrg/oltest-dede-fly/blob/f3a16dd78d8dc7775483d382822b61b780eafd88/e2e/db0195a5-70e3-4ef2-8313-639f39616037.md)
 * Handoff File: [db0195a5-70e3-4ef2-8313-639f39616037.ab355ca707f00a845d0d11770e800cacdf476828.de-de.xlf](https://github.com/OpenLocalizationTestOrg/olhandoff-e2e/blob/a6268a4ce502779b84a9f88ef44510439c1fd073/ol-handoff/OpenLocalizationTestOrg/oltest-dede-fly/ci/high/db0195a5-70e3-4ef2-8313-639f39616037.ab355ca707f00a845d0d11770e800cacdf476828.de-de.xlf)
