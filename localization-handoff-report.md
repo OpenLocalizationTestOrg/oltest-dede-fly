@@ -1,27 +1,37 @@
 # <a name='report-top'></a> Localization Handoff Report
 
 ## Summary
- Total Files | 1
+ Total Files | 2
 
 ## File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [e2e\ed524347-782a-418b-8f89-6f5e9786eb45.md](https://github.com/OpenLocalizationTestOrg/oltest/blob/6079e0373b1982112ed1f20ddd101ede87b63384/e2e/ed524347-782a-418b-8f89-6f5e9786eb45.md) | OutofSyncHandedBackSuccess | [Details](#5ef0fbe37dc2f91cf08586a050d0f2bb1905c6178)
+ [e2e\97dc0ba3-be5d-4ed9-a31b-b3c502c5860a.md](https://github.com/OpenLocalizationTestOrg/oltest/blob/6270bdb7b734da5c37cd8c7c35a735f5660daef8/e2e/97dc0ba3-be5d-4ed9-a31b-b3c502c5860a.md) | HandedOffSuccess | [Details](#d1c717406689514d0aa3afa29a970e119d7148e41)
+ [e2e\c0ead027-2ac5-4d7b-8c3d-7c4c0b2670b5.md](https://github.com/OpenLocalizationTestOrg/oltest/blob/6270bdb7b734da5c37cd8c7c35a735f5660daef8/e2e/c0ead027-2ac5-4d7b-8c3d-7c4c0b2670b5.md) | HandedOffSuccess | [Details](#0d5128f609316a3f87536593e9c2be18f1a8ac452)
 
 ## Item Details
-##### <a name='5ef0fbe37dc2f91cf08586a050d0f2bb1905c6178'></a> Source: [e2e\ed524347-782a-418b-8f89-6f5e9786eb45.md](https://github.com/OpenLocalizationTestOrg/oltest/blob/6079e0373b1982112ed1f20ddd101ede87b63384/e2e/ed524347-782a-418b-8f89-6f5e9786eb45.md)
-* Status: OutofSyncHandedBackSuccess
+##### <a name='d1c717406689514d0aa3afa29a970e119d7148e41'></a> Source: [e2e\97dc0ba3-be5d-4ed9-a31b-b3c502c5860a.md](https://github.com/OpenLocalizationTestOrg/oltest/blob/6270bdb7b734da5c37cd8c7c35a735f5660daef8/e2e/97dc0ba3-be5d-4ed9-a31b-b3c502c5860a.md)
+* Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [ed524347-782a-418b-8f89-6f5e9786eb45.94b6592e8381c0fbd13ab2e22685cabc38cfcc14.de-de.xlf](https://github.com/OpenLocalizationTestOrg/olhandoff-e2e/blob/d0ae8b10cd442b668b3a9865ee4391ceb0c24a98/ol-handoff/OpenLocalizationTestOrg/oltest-dede-fly/ci/ht/ed524347-782a-418b-8f89-6f5e9786eb45.94b6592e8381c0fbd13ab2e22685cabc38cfcc14.de-de.xlf)
-* Handoff Datetime: 2016-07-09 08:41:49
+* Handoff File: [97dc0ba3-be5d-4ed9-a31b-b3c502c5860a.ae08b08eeb6b39976ca019cc494d94fc180e63ae.de-de.xlf](https://github.com/OpenLocalizationTestOrg/olhandoff-e2e/blob/388c7786c38ae29482684810d2f4b0be1a1e7823/ol-handoff/OpenLocalizationTestOrg/oltest-dede-fly/ci/ht/97dc0ba3-be5d-4ed9-a31b-b3c502c5860a.ae08b08eeb6b39976ca019cc494d94fc180e63ae.de-de.xlf)
+* Handoff Datetime: 2016-07-09 08:42:56
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Current Target File: [e2e\ed524347-782a-418b-8f89-6f5e9786eb45.md](https://github.com/OpenLocalizationTestOrg/oltest-dede-fly/blob/ab141c1274ccb0d3c2b994601d99735b68a3ff8c/e2e/ed524347-782a-418b-8f89-6f5e9786eb45.md)
-* Current Handback File: [ed524347-782a-418b-8f89-6f5e9786eb45.94b6592e8381c0fbd13ab2e22685cabc38cfcc14.de-de.xlf](https://github.com/OpenLocalizationTestOrg/olhandback-e2e/blob/b2172bd61f8ed31c2fce83a82108b95b9e2b8da0/ol-handback/OpenLocalizationTestOrg/oltest-dede-fly/ci/ht/ed524347-782a-418b-8f89-6f5e9786eb45.94b6592e8381c0fbd13ab2e22685cabc38cfcc14.de-de.xlf)
-* Current Handback Datetime: 2016-07-09 08:41:24
+* [Back to Top](#report-top)
+
+##### <a name='0d5128f609316a3f87536593e9c2be18f1a8ac452'></a> Source: [e2e\c0ead027-2ac5-4d7b-8c3d-7c4c0b2670b5.md](https://github.com/OpenLocalizationTestOrg/oltest/blob/6270bdb7b734da5c37cd8c7c35a735f5660daef8/e2e/c0ead027-2ac5-4d7b-8c3d-7c4c0b2670b5.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [c0ead027-2ac5-4d7b-8c3d-7c4c0b2670b5.fe44304a2e8b8cee4d51d1a3391afa5905a617d0.de-de.xlf](https://github.com/OpenLocalizationTestOrg/olhandoff-e2e/blob/388c7786c38ae29482684810d2f4b0be1a1e7823/ol-handoff/OpenLocalizationTestOrg/oltest-dede-fly/ci/ht/c0ead027-2ac5-4d7b-8c3d-7c4c0b2670b5.fe44304a2e8b8cee4d51d1a3391afa5905a617d0.de-de.xlf)
+* Handoff Datetime: 2016-07-09 08:42:56
+* Handoff Reason: Include
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
 
