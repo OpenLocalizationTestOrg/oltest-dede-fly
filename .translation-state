@@ -1,6 +1,6 @@
 {
   "LastProcessedCommit": "cc5339e57d89cd0e9b18f66d881b2bc9a5cc9364",
-  "LastTranslatedCommit": "e5eb92f330a9d7b4ea657c0ae999da5c791f8909",
+  "LastTranslatedCommit": "bfd25445e929d31de6b6a65f31f420542e7b4283",
   "Items": {
     "455920a9c878b8d6783b05fdeee9c6fcbecf1dc5": {
       "FileHash": "455920a9c878b8d6783b05fdeee9c6fcbecf1dc5",
@@ -27092,9 +27092,17 @@
       "TargetFilePath": null,
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
-      "HandbackDateTime": "0001-01-01T00:00:00",
-      "HandbackException": null,
-      "HandbackFailureTimes": 0,
+      "HandbackDateTime": "2016-07-09T04:45:34.9664769Z",
+      "HandbackException": {
+        "internal_error_code": "handback_validate_file_name_invalide",
+        "internal_error_message": "Handback file name: uswsjt2j.rsv is different with handoff file name: aac3236b-212c-42c0-b3fb-290722cfa41b.0dc5882f6a5359ce100d66c6b4789ec43b352279.de-de.",
+        "internal_error_retriable": false,
+        "exception_message": "Handback file name: uswsjt2j.rsv is different with handoff file name: aac3236b-212c-42c0-b3fb-290722cfa41b.0dc5882f6a5359ce100d66c6b4789ec43b352279.de-de.",
+        "exception_type": "Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException",
+        "stack_trace": null,
+        "extended_information": null
+      },
+      "HandbackFailureTimes": 1,
       "UpdatedDateTime": "0001-01-01T00:00:00",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
