@@ -80,6 +80,8 @@
 * Current Target File: [e2e\244b36d5-8c33-4497-9409-36fd393f3f59.md](https://github.com/OpenLocalizationTestOrg/oltest-dede-fly/blob/6f90f717c8e9e08481958b89fa7527ca6a5975cd/e2e/244b36d5-8c33-4497-9409-36fd393f3f59.md)
 * Current Handback File: [244b36d5-8c33-4497-9409-36fd393f3f59.fa9ce35187fdde0303344322de00cd6f65a3c734.de-de.xlf](https://github.com/OpenLocalizationTestOrg/olhandback-e2e/blob/2b3a3e095ed4a4348ed1b205f5203441ef751bc9/ol-handback/OpenLocalizationTestOrg/oltest-dede-fly/ci/ht/244b36d5-8c33-4497-9409-36fd393f3f59.fa9ce35187fdde0303344322de00cd6f65a3c734.de-de.xlf)
 * Current Handback Datetime: 2016-07-09 10:25:38
+* Bilingual File: [244b36d5-8c33-4497-9409-36fd393f3f59.fa9ce35187fdde0303344322de00cd6f65a3c734.de-de.xlf](https://github.com/OpenLocalizationTestOrg/olhandback-e2e/blob/2b3a3e095ed4a4348ed1b205f5203441ef751bc9/ol-handback/OpenLocalizationTestOrg/oltest-dede-fly/ci/ht/244b36d5-8c33-4497-9409-36fd393f3f59.fa9ce35187fdde0303344322de00cd6f65a3c734.de-de.xlf)
+* Bilingual Datetime: 2016-07-09 10:26:25
 * [Back to Top](#report-top)
 
 ##### <a name='e92ad22262248ff8dd64070588579293f8efe1873'></a> Source: [e2e\f391b350-ce86-45bd-a988-0c142d3fece0.md](https://github.com/OpenLocalizationTestOrg/oltest/blob/b1a8e08f27080398978d5ddb516e51c824b76b92/e2e/f391b350-ce86-45bd-a988-0c142d3fece0.md)
@@ -95,6 +97,8 @@
 * Current Target File: [e2e\f391b350-ce86-45bd-a988-0c142d3fece0.md](https://github.com/OpenLocalizationTestOrg/oltest-dede-fly/blob/6f90f717c8e9e08481958b89fa7527ca6a5975cd/e2e/f391b350-ce86-45bd-a988-0c142d3fece0.md)
 * Current Handback File: [f391b350-ce86-45bd-a988-0c142d3fece0.9593e8edfe5f23adbb3c0639b37e1a1407018a5b.de-de.xlf](https://github.com/OpenLocalizationTestOrg/olhandback-e2e/blob/2b3a3e095ed4a4348ed1b205f5203441ef751bc9/ol-handback/OpenLocalizationTestOrg/oltest-dede-fly/ci/ht/f391b350-ce86-45bd-a988-0c142d3fece0.9593e8edfe5f23adbb3c0639b37e1a1407018a5b.de-de.xlf)
 * Current Handback Datetime: 2016-07-09 10:25:37
+* Bilingual File: [f391b350-ce86-45bd-a988-0c142d3fece0.9593e8edfe5f23adbb3c0639b37e1a1407018a5b.de-de.xlf](https://github.com/OpenLocalizationTestOrg/olhandback-e2e/blob/2b3a3e095ed4a4348ed1b205f5203441ef751bc9/ol-handback/OpenLocalizationTestOrg/oltest-dede-fly/ci/ht/f391b350-ce86-45bd-a988-0c142d3fece0.9593e8edfe5f23adbb3c0639b37e1a1407018a5b.de-de.xlf)
+* Bilingual Datetime: 2016-07-09 10:26:25
 * [Back to Top](#report-top)
 
 ##### <a name='ef6c674054aeb8ea00b5985c929ca31c4922a88d4'></a> Source: [e2e\fbd1bcfc-0580-4589-9d2e-aa02f1760f1f.md](https://github.com/OpenLocalizationTestOrg/oltest/blob/438020ae8918fe1006e6ab8dcbab791003a6fdbb/e2e/fbd1bcfc-0580-4589-9d2e-aa02f1760f1f.md)
