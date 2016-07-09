@@ -1,6 +1,6 @@
 {
   "LastProcessedCommit": "e565ce47c9088837b7f26511057eeabf5ccf136a",
-  "LastTranslatedCommit": "d559b2d02913375b03ccd2d4d0c6df8899558232",
+  "LastTranslatedCommit": "a3428bfdca9cf7fd0c60e756d0545cc0afea751e",
   "Items": {
     "455920a9c878b8d6783b05fdeee9c6fcbecf1dc5": {
       "FileHash": "455920a9c878b8d6783b05fdeee9c6fcbecf1dc5",
@@ -24008,9 +24008,17 @@
       "TargetFilePath": null,
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
-      "HandbackDateTime": "0001-01-01T00:00:00",
-      "HandbackException": null,
-      "HandbackFailureTimes": 0,
+      "HandbackDateTime": "2016-07-09T00:42:45.0364652Z",
+      "HandbackException": {
+        "internal_error_code": "handback_validate_file_name_invalide",
+        "internal_error_message": "Handback file name: 25c1enxm.qyh is different with handoff file name: 6c23ad32-ca00-4ca4-a4c7-81ca02e7a278.1f41686b983bf4d8363ec873f4eae182bbbfd440.de-de.",
+        "internal_error_retriable": false,
+        "exception_message": "Handback file name: 25c1enxm.qyh is different with handoff file name: 6c23ad32-ca00-4ca4-a4c7-81ca02e7a278.1f41686b983bf4d8363ec873f4eae182bbbfd440.de-de.",
+        "exception_type": "Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException",
+        "stack_trace": null,
+        "extended_information": null
+      },
+      "HandbackFailureTimes": 1,
       "UpdatedDateTime": "0001-01-01T00:00:00",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
