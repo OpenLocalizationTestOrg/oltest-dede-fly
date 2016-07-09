@@ -59,6 +59,8 @@
 * Archive Datetime: 2016-07-09 14:23:47
 * Handback File: [2085867e-c164-47be-b8a4-2b1719138245.02a95dc90b3352fb8534fc8dcdf9a1c660caafdb.de-de.xlf](https://github.com/OpenLocalizationTestOrg/olhandback-e2e/blob/aa8b394188558401269b159304bf097f7a873592/ol-handback/OpenLocalizationTestOrg/oltest-dede-fly/ci/ht/2085867e-c164-47be-b8a4-2b1719138245.02a95dc90b3352fb8534fc8dcdf9a1c660caafdb.de-de.xlf)
 * Handback Datetime: 2016-07-09 14:24:17
+* Bilingual File: [2085867e-c164-47be-b8a4-2b1719138245.02a95dc90b3352fb8534fc8dcdf9a1c660caafdb.de-de.xlf](https://github.com/OpenLocalizationTestOrg/olhandback-e2e/blob/aa8b394188558401269b159304bf097f7a873592/ol-handback/OpenLocalizationTestOrg/oltest-dede-fly/ci/ht/2085867e-c164-47be-b8a4-2b1719138245.02a95dc90b3352fb8534fc8dcdf9a1c660caafdb.de-de.xlf)
+* Bilingual Datetime: 2016-07-09 14:24:39
 * [Back to Top](#report-top)
 
 ##### <a name='78c33ff8d801fd300efcfa7b069983bba37a0fdc2'></a> Source: [e2e\2149b0f6-b4d5-46cf-a3a3-1a0421ff8223.md](https://github.com/OpenLocalizationTestOrg/oltest/blob/ebb1a81ab99af40c878f6ca1749294b69742b79c/e2e/2149b0f6-b4d5-46cf-a3a3-1a0421ff8223.md)
@@ -71,6 +73,8 @@
 * Archive Datetime: 2016-07-09 14:23:47
 * Handback File: [2149b0f6-b4d5-46cf-a3a3-1a0421ff8223.284cfc2a70e0fe87fe95ca1e4e0fb2cd8706312b.de-de.xlf](https://github.com/OpenLocalizationTestOrg/olhandback-e2e/blob/aa8b394188558401269b159304bf097f7a873592/ol-handback/OpenLocalizationTestOrg/oltest-dede-fly/ci/ht/2149b0f6-b4d5-46cf-a3a3-1a0421ff8223.284cfc2a70e0fe87fe95ca1e4e0fb2cd8706312b.de-de.xlf)
 * Handback Datetime: 2016-07-09 14:24:17
+* Bilingual File: [2149b0f6-b4d5-46cf-a3a3-1a0421ff8223.284cfc2a70e0fe87fe95ca1e4e0fb2cd8706312b.de-de.xlf](https://github.com/OpenLocalizationTestOrg/olhandback-e2e/blob/aa8b394188558401269b159304bf097f7a873592/ol-handback/OpenLocalizationTestOrg/oltest-dede-fly/ci/ht/2149b0f6-b4d5-46cf-a3a3-1a0421ff8223.284cfc2a70e0fe87fe95ca1e4e0fb2cd8706312b.de-de.xlf)
+* Bilingual Datetime: 2016-07-09 14:24:39
 * [Back to Top](#report-top)
 
 
