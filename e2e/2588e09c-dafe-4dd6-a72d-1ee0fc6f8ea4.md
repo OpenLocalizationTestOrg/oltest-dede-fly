@@ -1,6 +1,3 @@
 ## OpenLocalization Workflow Test MarkDown
-* 602fcb2f-21ae-409c-bd5b-a193c2b7c4a4 thanks!
-
-<!--HONumber=Jul16_HO2-->
-
-
+* 5f566d57-49cb-4eec-8203-0c9f003a203d 
+thanks!<!--HONumber=Jul16_HO2-->
