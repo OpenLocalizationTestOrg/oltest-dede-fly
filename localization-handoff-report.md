@@ -6,22 +6,19 @@
 ## File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [e2e\562df689-a823-4140-b652-c7b9a31455d4.md](https://github.com/OpenLocalizationTestOrg/oltest/blob/7c9b9062b96355f20816cfdada456f7f16d51c09/e2e/562df689-a823-4140-b652-c7b9a31455d4.md) | OutofSyncHandedBackSuccess | [Details](#dcb2acc232312f54677a0148d10cf785a87e925d1)
+ [e2e\aac3236b-212c-42c0-b3fb-290722cfa41b.md](https://github.com/OpenLocalizationTestOrg/oltest/blob/cc5339e57d89cd0e9b18f66d881b2bc9a5cc9364/e2e/aac3236b-212c-42c0-b3fb-290722cfa41b.md) | HandedOffSuccess | [Details](#16a5e76b6f95b712bb003b1cf0301e85a4addf242)
 
 ## Item Details
-##### <a name='dcb2acc232312f54677a0148d10cf785a87e925d1'></a> Source: [e2e\562df689-a823-4140-b652-c7b9a31455d4.md](https://github.com/OpenLocalizationTestOrg/oltest/blob/7c9b9062b96355f20816cfdada456f7f16d51c09/e2e/562df689-a823-4140-b652-c7b9a31455d4.md)
-* Status: OutofSyncHandedBackSuccess
+##### <a name='16a5e76b6f95b712bb003b1cf0301e85a4addf242'></a> Source: [e2e\aac3236b-212c-42c0-b3fb-290722cfa41b.md](https://github.com/OpenLocalizationTestOrg/oltest/blob/cc5339e57d89cd0e9b18f66d881b2bc9a5cc9364/e2e/aac3236b-212c-42c0-b3fb-290722cfa41b.md)
+* Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [562df689-a823-4140-b652-c7b9a31455d4.25292b51d2e9b32a85d85b52aa6a7582c6bb0776.de-de.xlf](https://github.com/OpenLocalizationTestOrg/olhandoff-e2e/blob/8fdb59e0794bd917555f84d3e632b7f8be46942d/ol-handoff/OpenLocalizationTestOrg/oltest-dede-fly/ci/ht/562df689-a823-4140-b652-c7b9a31455d4.25292b51d2e9b32a85d85b52aa6a7582c6bb0776.de-de.xlf)
-* Handoff Datetime: 2016-07-09 04:44:28
+* Handoff File: [aac3236b-212c-42c0-b3fb-290722cfa41b.0dc5882f6a5359ce100d66c6b4789ec43b352279.de-de.xlf](https://github.com/OpenLocalizationTestOrg/olhandoff-e2e/blob/0532b2e0a322c4481887d7bb36a0ee3d85b7469c/ol-handoff/OpenLocalizationTestOrg/oltest-dede-fly/ci/ht/aac3236b-212c-42c0-b3fb-290722cfa41b.0dc5882f6a5359ce100d66c6b4789ec43b352279.de-de.xlf)
+* Handoff Datetime: 2016-07-09 04:45:18
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Current Target File: [e2e\562df689-a823-4140-b652-c7b9a31455d4.md](https://github.com/OpenLocalizationTestOrg/oltest-dede-fly/blob/df1d4ccf9626ba36d672d86f41de9d3596bc3505/e2e/562df689-a823-4140-b652-c7b9a31455d4.md)
-* Current Handback File: [562df689-a823-4140-b652-c7b9a31455d4.25292b51d2e9b32a85d85b52aa6a7582c6bb0776.de-de.xlf](https://github.com/OpenLocalizationTestOrg/olhandback-e2e/blob/ef3044ba92d3257ffddaff59837748ef5d068ffc/ol-handback/OpenLocalizationTestOrg/oltest-dede-fly/ci/ht/562df689-a823-4140-b652-c7b9a31455d4.25292b51d2e9b32a85d85b52aa6a7582c6bb0776.de-de.xlf)
-* Current Handback Datetime: 2016-07-09 04:44:09
 * [Back to Top](#report-top)
 
 
