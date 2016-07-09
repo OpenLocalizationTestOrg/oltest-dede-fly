@@ -5,12 +5,12 @@
  -------- | ----- 
  Total Files | 9
 [ Handoff Failed Files ](#handoff-failed-list)| 0
-[ Handoff Success Files ](#handoff-success-list)| 3
+[ Handoff Success Files ](#handoff-success-list)| 2
 [ Archive Failed Files ](#archive-failed-list)| 0
 [ Archive Success Files ](#archive-success-list)| 3
 [ Handback Failed Files ](#handback-failed-list)| 0
 [ Out Of Sync Handback Files ](#outofsync-handback-success-list)| 1
-[ In Sync Handback Files ](#insync-handback-success-list)| 1
+[ In Sync Handback Files ](#insync-handback-success-list)| 2
 [ Ignored Files ](#ignored-list)| 1
 
 ## <a name='handoff-failed-list'></a> Handoff Failed File List
@@ -19,7 +19,6 @@
  Source File | Status | Details 
  ----------- | ------ | ------- 
  [e2e\14f15ad2-562d-4adc-9222-94d17c8014df.md](https://github.com/OpenLocalizationTestOrg/oltest/blob/ece2de7f822937bc56f1186f0437765bd6f2af86/e2e/14f15ad2-562d-4adc-9222-94d17c8014df.md) | HandedOffSuccess | [Details](#1d5dacccfa9d5c2f0a84cf64d9626d1a303085d91)
- [e2e\797434eb-95f4-4674-9252-6459e4381292.md](https://github.com/OpenLocalizationTestOrg/oltest/blob/3492d50fc5c93c250e5e099882c23c7b1f82d21d/e2e/797434eb-95f4-4674-9252-6459e4381292.md) | HandedOffSuccess | [Details](#efe9a506b2933d64af585bd4d888d3e3b42ba6965)
  [e2e\7ad06ae4-d9c5-4de3-b698-c68652c15281.md](https://github.com/OpenLocalizationTestOrg/oltest/blob/0b6e9c0e8ee2e02ce500231653d94d083a52b75d/e2e/7ad06ae4-d9c5-4de3-b698-c68652c15281.md) | HandedOffSuccess | [Details](#663899f613bbbc1baee8cdbaf0c09310c7b06c046)
 
 ## <a name='archive-failed-list'></a> Archive Failed File List
@@ -42,6 +41,7 @@
  Source File | Status | Details 
  ----------- | ------ | ------- 
  [e2e\3d506da0-21ae-404f-b6e6-8ebdf9d1a4be.md](https://github.com/OpenLocalizationTestOrg/oltest/blob/179c3c9c4c90845b7fd2e9fa1ebcedd4b87d17ab/e2e/3d506da0-21ae-404f-b6e6-8ebdf9d1a4be.md) | InSyncHandedBackSuccess | [Details](#201f8b9a6847d854ddf7f6b81c982c887dcc83c42)
+ [e2e\797434eb-95f4-4674-9252-6459e4381292.md](https://github.com/OpenLocalizationTestOrg/oltest/blob/3492d50fc5c93c250e5e099882c23c7b1f82d21d/e2e/797434eb-95f4-4674-9252-6459e4381292.md) | InSyncHandedBackSuccess | [Details](#efe9a506b2933d64af585bd4d888d3e3b42ba6965)
 
 ## <a name='ignored-list'></a> Ignored File List
  Source File | Status | Details 
@@ -110,15 +110,15 @@
 * [Back to Top](#report-top)
 
 ##### <a name='efe9a506b2933d64af585bd4d888d3e3b42ba6965'></a> Source: [e2e\797434eb-95f4-4674-9252-6459e4381292.md](https://github.com/OpenLocalizationTestOrg/oltest/blob/3492d50fc5c93c250e5e099882c23c7b1f82d21d/e2e/797434eb-95f4-4674-9252-6459e4381292.md)
-* Status: HandedOffSuccess
-* Target File: 
+* Status: InSyncHandedBackSuccess
+* Target File: [e2e\797434eb-95f4-4674-9252-6459e4381292.md](https://github.com/OpenLocalizationTestOrg/oltest-dede-fly/blob/aa024f741b15a0907a7331419dad5df787b847dd/e2e/797434eb-95f4-4674-9252-6459e4381292.md)
 * Handoff File: [797434eb-95f4-4674-9252-6459e4381292.ab3207d63f2d28426fb455dd7dfef0a0ee8b514c.de-de.xlf](https://github.com/OpenLocalizationTestOrg/olhandoff-e2e/blob/efa477dabb151186a4b6c38264c751312cdcd6d8/ol-handoff/OpenLocalizationTestOrg/oltest-dede-fly/ci/ht/797434eb-95f4-4674-9252-6459e4381292.ab3207d63f2d28426fb455dd7dfef0a0ee8b514c.de-de.xlf)
 * Handoff Datetime: 2016-07-09 04:41:08
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
+* Handback File: [797434eb-95f4-4674-9252-6459e4381292.ab3207d63f2d28426fb455dd7dfef0a0ee8b514c.de-de.xlf](https://github.com/OpenLocalizationTestOrg/olhandback-e2e/blob/356c983ce14658ad09ffc96273e6aeaf628b0be9/ol-handback/OpenLocalizationTestOrg/oltest-dede-fly/ci/ht/797434eb-95f4-4674-9252-6459e4381292.ab3207d63f2d28426fb455dd7dfef0a0ee8b514c.de-de.xlf)
+* Handback Datetime: 2016-07-09 04:41:24
 * [Back to Top](#report-top)
 
 ##### <a name='663899f613bbbc1baee8cdbaf0c09310c7b06c046'></a> Source: [e2e\7ad06ae4-d9c5-4de3-b698-c68652c15281.md](https://github.com/OpenLocalizationTestOrg/oltest/blob/0b6e9c0e8ee2e02ce500231653d94d083a52b75d/e2e/7ad06ae4-d9c5-4de3-b698-c68652c15281.md)
