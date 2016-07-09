@@ -1,11 +1,29 @@
 # <a name='report-top'></a> Localization Handback Report
 
 ## Summary
- Total Files | 0
+ Total Files | 1
 
 ## File List
+ Source File | Status | Details 
+ ----------- | ------ | ------- 
+ [e2e\df8638cf-840e-48cc-8e36-a7f78cd05279.md](https://github.com/OpenLocalizationTestOrg/oltest/blob/cede4553476062a9aaf28618f3c2f6f1a81bdab5/e2e/df8638cf-840e-48cc-8e36-a7f78cd05279.md) | OutofSyncHandedBackSuccess | [Details](#e7a35c61c7aa1963fe1681800e8b86bf9946b3b36)
 
 ## Item Details
+##### <a name='e7a35c61c7aa1963fe1681800e8b86bf9946b3b36'></a> Source: [e2e\df8638cf-840e-48cc-8e36-a7f78cd05279.md](https://github.com/OpenLocalizationTestOrg/oltest/blob/cede4553476062a9aaf28618f3c2f6f1a81bdab5/e2e/df8638cf-840e-48cc-8e36-a7f78cd05279.md)
+* Status: OutofSyncHandedBackSuccess
+* Target File: 
+* Handoff File: [df8638cf-840e-48cc-8e36-a7f78cd05279.8d8f1876661214b3933cf9ce3eafdd55076d0912.de-de.xlf](https://github.com/OpenLocalizationTestOrg/olhandoff-e2e/blob/8af89f9c2f0fd6620fb2616b31fcda61b8d029f1/ol-handoff/OpenLocalizationTestOrg/oltest-dede-fly/ci/ht/df8638cf-840e-48cc-8e36-a7f78cd05279.8d8f1876661214b3933cf9ce3eafdd55076d0912.de-de.xlf)
+* Handoff Datetime: 2016-07-09 08:50:13
+* Handoff Reason: Include
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Current Target File: [e2e\df8638cf-840e-48cc-8e36-a7f78cd05279.md](https://github.com/OpenLocalizationTestOrg/oltest-dede-fly/blob/4abd71f3feb2020d097410652cd4101f3f3de471/e2e/df8638cf-840e-48cc-8e36-a7f78cd05279.md)
+* Current Handback File: [df8638cf-840e-48cc-8e36-a7f78cd05279.8d8f1876661214b3933cf9ce3eafdd55076d0912.de-de.xlf](https://github.com/OpenLocalizationTestOrg/olhandback-e2e/blob/8653325d4ff2ace2430c530338362085fd3fbeed/ol-handback/OpenLocalizationTestOrg/oltest-dede-fly/ci/ht/df8638cf-840e-48cc-8e36-a7f78cd05279.8d8f1876661214b3933cf9ce3eafdd55076d0912.de-de.xlf)
+* Current Handback Datetime: 2016-07-09 08:50:39
+* [Back to Top](#report-top)
+
 
 ## Error Details
 
