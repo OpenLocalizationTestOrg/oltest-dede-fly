@@ -1,6 +1,6 @@
 {
   "LastProcessedCommit": "972ceb2f69cd22eb1c66cdc6943597bcd62495f0",
-  "LastTranslatedCommit": "f602d19df3935a9a1a81720e37426ed742bfddf1",
+  "LastTranslatedCommit": "e76042cc54e4e97fbf64dfd644579d68b321fe02",
   "Items": {
     "455920a9c878b8d6783b05fdeee9c6fcbecf1dc5": {
       "FileHash": "455920a9c878b8d6783b05fdeee9c6fcbecf1dc5",
@@ -39428,9 +39428,17 @@
       "TargetFilePath": null,
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
-      "HandbackDateTime": "0001-01-01T00:00:00",
-      "HandbackException": null,
-      "HandbackFailureTimes": 0,
+      "HandbackDateTime": "2016-07-09T14:45:57.2659212Z",
+      "HandbackException": {
+        "internal_error_code": "handback_validate_file_name_invalide",
+        "internal_error_message": "Handback file name: v01gzcz0.4j3 is different with handoff file name: 1397f5e6-0150-4589-a089-6ffa20fc4297.148f8e64c70806f823f22d199753f745c3d48a26.de-de.",
+        "internal_error_retriable": false,
+        "exception_message": "Handback file name: v01gzcz0.4j3 is different with handoff file name: 1397f5e6-0150-4589-a089-6ffa20fc4297.148f8e64c70806f823f22d199753f745c3d48a26.de-de.",
+        "exception_type": "Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException",
+        "stack_trace": null,
+        "extended_information": null
+      },
+      "HandbackFailureTimes": 1,
       "UpdatedDateTime": "0001-01-01T00:00:00",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
