@@ -1,6 +1,6 @@
 {
   "LastProcessedCommit": "50fe39f392fcc7a58f788434cd2ec8bc48b41b82",
-  "LastTranslatedCommit": "5835197af3365b15f29db503b435be5307ce0447",
+  "LastTranslatedCommit": "87b16452384f3e2fec4db732ff5c92a7bc0f3700",
   "Items": {
     "455920a9c878b8d6783b05fdeee9c6fcbecf1dc5": {
       "FileHash": "455920a9c878b8d6783b05fdeee9c6fcbecf1dc5",
@@ -51550,9 +51550,17 @@
       "TargetFilePath": null,
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
-      "HandbackDateTime": "0001-01-01T00:00:00",
-      "HandbackException": null,
-      "HandbackFailureTimes": 0,
+      "HandbackDateTime": "2016-07-09T22:47:28.5940641Z",
+      "HandbackException": {
+        "internal_error_code": "handback_validate_file_name_invalide",
+        "internal_error_message": "Handback file name: csvebgvu.u2j is different with handoff file name: c715ed1d-86ac-425a-92c5-f157adb9e421.f1889aed20901d8563d1dca7f6e0a786d21543d7.de-de.",
+        "internal_error_retriable": false,
+        "exception_message": "Handback file name: csvebgvu.u2j is different with handoff file name: c715ed1d-86ac-425a-92c5-f157adb9e421.f1889aed20901d8563d1dca7f6e0a786d21543d7.de-de.",
+        "exception_type": "Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException",
+        "stack_trace": null,
+        "extended_information": null
+      },
+      "HandbackFailureTimes": 1,
       "UpdatedDateTime": "0001-01-01T00:00:00",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
