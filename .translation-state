@@ -1,6 +1,6 @@
 {
   "LastProcessedCommit": "4c3e91674d955a0abd79cc4a8d9c396980d99584",
-  "LastTranslatedCommit": "722967b24e99e6489388ca2e2594e18609d30c8d",
+  "LastTranslatedCommit": "221dfa9862dceee04806e299366e5d0b406b4b8b",
   "Items": {
     "455920a9c878b8d6783b05fdeee9c6fcbecf1dc5": {
       "FileHash": "455920a9c878b8d6783b05fdeee9c6fcbecf1dc5",
@@ -36344,9 +36344,17 @@
       "TargetFilePath": null,
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
-      "HandbackDateTime": "0001-01-01T00:00:00",
-      "HandbackException": null,
-      "HandbackFailureTimes": 0,
+      "HandbackDateTime": "2016-07-09T10:46:46.1959923Z",
+      "HandbackException": {
+        "internal_error_code": "handback_validate_file_name_invalide",
+        "internal_error_message": "Handback file name: epsoaw0n.nut is different with handoff file name: 275cb445-e42d-4068-b34e-c2ab06cc0b45.b8e76ab1e5ef059e7f336fd673a01e995dbc3011.de-de.",
+        "internal_error_retriable": false,
+        "exception_message": "Handback file name: epsoaw0n.nut is different with handoff file name: 275cb445-e42d-4068-b34e-c2ab06cc0b45.b8e76ab1e5ef059e7f336fd673a01e995dbc3011.de-de.",
+        "exception_type": "Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException",
+        "stack_trace": null,
+        "extended_information": null
+      },
+      "HandbackFailureTimes": 1,
       "UpdatedDateTime": "0001-01-01T00:00:00",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
