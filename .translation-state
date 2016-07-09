@@ -1,6 +1,6 @@
 {
   "LastProcessedCommit": "fb2986de825ba4da1f704df4a42f2967a03cdf79",
-  "LastTranslatedCommit": "405dc04b2163dd38c5ee3e8eeffb95df2b369e3b",
+  "LastTranslatedCommit": "636eb4c6540292c9ab4a4fe227eece74027a1466",
   "Items": {
     "455920a9c878b8d6783b05fdeee9c6fcbecf1dc5": {
       "FileHash": "455920a9c878b8d6783b05fdeee9c6fcbecf1dc5",
@@ -48466,9 +48466,17 @@
       "TargetFilePath": null,
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
-      "HandbackDateTime": "0001-01-01T00:00:00",
-      "HandbackException": null,
-      "HandbackFailureTimes": 0,
+      "HandbackDateTime": "2016-07-09T20:48:17.5510714Z",
+      "HandbackException": {
+        "internal_error_code": "handback_validate_file_name_invalide",
+        "internal_error_message": "Handback file name: 3luu445y.mbb is different with handoff file name: a8cb88aa-b967-48db-807f-b15d0fdc124b.2834839a20cce9c1aaa07a6c935f97c460603b45.de-de.",
+        "internal_error_retriable": false,
+        "exception_message": "Handback file name: 3luu445y.mbb is different with handoff file name: a8cb88aa-b967-48db-807f-b15d0fdc124b.2834839a20cce9c1aaa07a6c935f97c460603b45.de-de.",
+        "exception_type": "Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException",
+        "stack_trace": null,
+        "extended_information": null
+      },
+      "HandbackFailureTimes": 1,
       "UpdatedDateTime": "0001-01-01T00:00:00",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
