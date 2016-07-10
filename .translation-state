@@ -1,5 +1,5 @@
 {
-  "LastProcessedCommit": "3ab6126aa1a928843867edc70d980f8efeffb0b1",
+  "LastProcessedCommit": "519834e608c6ed9f935afa89886f5e7facb1d536",
   "LastTranslatedCommit": "3f352017f8605b18c9d77a712a210a050d0c3555",
   "Items": {
     "455920a9c878b8d6783b05fdeee9c6fcbecf1dc5": {
@@ -64024,13 +64024,15 @@
     },
     "0219d8f99c448793daaa747dd9ddcd1c97d3c457": {
       "FileHash": "0219d8f99c448793daaa747dd9ddcd1c97d3c457",
-      "SourceFileCommit": "3ab6126aa1a928843867edc70d980f8efeffb0b1",
-      "SourceFilePath": "e2e\\3f864c0a-ed0c-4f4c-afc7-4ea0cd2d455a.md",
+      "SourceFileCommit": "519834e608c6ed9f935afa89886f5e7facb1d536",
+      "SourceFilePath": "e2e\\fffff229f48f0-cf6c-42d4-9780-1865f9161e0a.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
       "TokenReference": null,
       "FilePathList": [
-        "e2e\\3f864c0a-ed0c-4f4c-afc7-4ea0cd2d455a.md"
+        "e2e\\3f864c0a-ed0c-4f4c-afc7-4ea0cd2d455a.md",
+        "e2e\\fffff229f48f0-cf6c-42d4-9780-1865f9161e0a.md",
+        "e2e\\fffffb0dea4b8-0cee-4da3-801e-88d9ce26ec32.md"
       ],
       "HasMetadata": false,
       "TranslationType": 1,
