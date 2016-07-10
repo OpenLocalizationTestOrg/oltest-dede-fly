@@ -1,6 +1,6 @@
 {
   "LastProcessedCommit": "abb62c6171236a8a4ebc741c2c806153e2e55225",
-  "LastTranslatedCommit": "e29d8b2f3e52f039524c1e38275bba7fa8848984",
+  "LastTranslatedCommit": "25a112853a85db4a2742e144f03feb9f2175f34b",
   "Items": {
     "455920a9c878b8d6783b05fdeee9c6fcbecf1dc5": {
       "FileHash": "455920a9c878b8d6783b05fdeee9c6fcbecf1dc5",
@@ -78710,9 +78710,17 @@
       "TargetFilePath": null,
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
-      "HandbackDateTime": "0001-01-01T00:00:00",
-      "HandbackException": null,
-      "HandbackFailureTimes": 0,
+      "HandbackDateTime": "2016-07-10T22:55:48.8996537Z",
+      "HandbackException": {
+        "internal_error_code": "handback_validate_file_name_invalide",
+        "internal_error_message": "Handback file name: bbbotcud.hoi is different with handoff file name: 538c6e68-facf-4d49-befd-b00cdc5ec339.1758779e3fd16aa9cd5bd037bbc90735fd1400ec.de-de.",
+        "internal_error_retriable": false,
+        "exception_message": "Handback file name: bbbotcud.hoi is different with handoff file name: 538c6e68-facf-4d49-befd-b00cdc5ec339.1758779e3fd16aa9cd5bd037bbc90735fd1400ec.de-de.",
+        "exception_type": "Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException",
+        "stack_trace": null,
+        "extended_information": null
+      },
+      "HandbackFailureTimes": 1,
       "UpdatedDateTime": "0001-01-01T00:00:00",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
