@@ -1,6 +1,6 @@
 {
   "LastProcessedCommit": "d89f505ca3fadbd5debb4bc0399c1dfde10c4f72",
-  "LastTranslatedCommit": "1c68f184fd2aefbea13322ca45631ccaac6678fe",
+  "LastTranslatedCommit": "da025838b7d924e18f471285d332f019774781c6",
   "Items": {
     "455920a9c878b8d6783b05fdeee9c6fcbecf1dc5": {
       "FileHash": "455920a9c878b8d6783b05fdeee9c6fcbecf1dc5",
@@ -54634,9 +54634,17 @@
       "TargetFilePath": null,
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
-      "HandbackDateTime": "0001-01-01T00:00:00",
-      "HandbackException": null,
-      "HandbackFailureTimes": 0,
+      "HandbackDateTime": "2016-07-10T00:47:17.1723509Z",
+      "HandbackException": {
+        "internal_error_code": "handback_validate_file_name_invalide",
+        "internal_error_message": "Handback file name: nrd2ar5k.tul is different with handoff file name: 0dcb475f-309f-4e4f-b49a-5b3be36bd4d2.82f390be3674c057da52f9fa93e1fa14b3425bde.de-de.",
+        "internal_error_retriable": false,
+        "exception_message": "Handback file name: nrd2ar5k.tul is different with handoff file name: 0dcb475f-309f-4e4f-b49a-5b3be36bd4d2.82f390be3674c057da52f9fa93e1fa14b3425bde.de-de.",
+        "exception_type": "Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException",
+        "stack_trace": null,
+        "extended_information": null
+      },
+      "HandbackFailureTimes": 1,
       "UpdatedDateTime": "0001-01-01T00:00:00",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
