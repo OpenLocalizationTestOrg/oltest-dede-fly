@@ -57,8 +57,8 @@
 * Handoff File: [a.6631f68b315a3f7ddcdc141802fdb6ef151d1df2.de-de.xlf](https://github.com/OpenLocalizationTestOrg/olhandoff-e2e/blob/2d185941d9702934198bedc9f077528d456f1e47/ol-handoff/OpenLocalizationTestOrg/oltest-dede-fly/ci/ht/a.6631f68b315a3f7ddcdc141802fdb6ef151d1df2.de-de.xlf)
 * Handoff Datetime: 2016-07-10 08:40:28
 * Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
+* Archive File: [a.6631f68b315a3f7ddcdc141802fdb6ef151d1df2.de-de.xlf](https://github.com/OpenLocalizationTestOrg/olhandoff-e2e/blob/b49d3e7e061951d037c747b1105ff183f596c2ae/ol-archive/OpenLocalizationTestOrg/oltest-dede-fly/ci/ht/a.6631f68b315a3f7ddcdc141802fdb6ef151d1df2.de-de.xlf)
+* Archive Datetime: 2016-07-10 08:41:47
 * Handback File: [a.6631f68b315a3f7ddcdc141802fdb6ef151d1df2.de-de.xlf](https://github.com/OpenLocalizationTestOrg/olhandback-e2e/blob/3a9ee7d73efd70d7014becd02db1e24a722e3dd3/ol-handback/OpenLocalizationTestOrg/oltest-dede-fly/ci/ht/a.6631f68b315a3f7ddcdc141802fdb6ef151d1df2.de-de.xlf)
 * Handback Datetime: 2016-07-10 08:41:00
 * [Back to Top](#report-top)
@@ -69,8 +69,8 @@
 * Handoff File: [b.63290e5768f688058c7b37413b0a5c26c308f864.de-de.xlf](https://github.com/OpenLocalizationTestOrg/olhandoff-e2e/blob/05b9b85a095bcd396c373e792ed701b87d4f772b/ol-handoff/OpenLocalizationTestOrg/oltest-dede-fly/ci/ht/b.63290e5768f688058c7b37413b0a5c26c308f864.de-de.xlf)
 * Handoff Datetime: 2016-07-10 08:41:31
 * Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
+* Archive File: [b.63290e5768f688058c7b37413b0a5c26c308f864.de-de.xlf](https://github.com/OpenLocalizationTestOrg/olhandoff-e2e/blob/b49d3e7e061951d037c747b1105ff183f596c2ae/ol-archive/OpenLocalizationTestOrg/oltest-dede-fly/ci/ht/b.63290e5768f688058c7b37413b0a5c26c308f864.de-de.xlf)
+* Archive Datetime: 2016-07-10 08:41:47
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * Current Target File: [e2e\a.md](https://github.com/OpenLocalizationTestOrg/oltest-dede-fly/blob/b3a8ae1307047417260572e8bd51dfa993ab1763/e2e/a.md)
