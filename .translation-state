@@ -1,6 +1,6 @@
 {
   "LastProcessedCommit": "28461f767d961c978993cf8f54c1581d749d8b28",
-  "LastTranslatedCommit": "5a620f8d52a9b0dfaa3c8e8b8267cd31992c3849",
+  "LastTranslatedCommit": "311b25f59874a1637fba84cffb05359942e9eea3",
   "Items": {
     "455920a9c878b8d6783b05fdeee9c6fcbecf1dc5": {
       "FileHash": "455920a9c878b8d6783b05fdeee9c6fcbecf1dc5",
@@ -70107,14 +70107,14 @@
       "HandoffPriority": "ht",
       "HandoffException": null,
       "HandoffFailureTimes": 0,
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "HandbackFilePath": null,
-      "HandbackFileCommit": null,
-      "HandbackDateTime": "0001-01-01T00:00:00",
+      "TargetFileCommit": "311b25f59874a1637fba84cffb05359942e9eea3",
+      "TargetFilePath": "e2e\\99a65b9c-9ac9-4344-a2f3-0bfdf04c0837.md",
+      "HandbackFilePath": "ol-handback\\OpenLocalizationTestOrg\\oltest-dede-fly\\ci\\ht\\99a65b9c-9ac9-4344-a2f3-0bfdf04c0837.4b22a49385120090de2509fbcdd6215b0a70f1a8.de-de.xlf",
+      "HandbackFileCommit": "4214d062119c180dafc8c5962d107e39c52e1aed",
+      "HandbackDateTime": "2016-07-10T11:04:10.0351824Z",
       "HandbackException": null,
       "HandbackFailureTimes": 0,
-      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "UpdatedDateTime": "2016-07-10T11:04:10.0351824Z",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
