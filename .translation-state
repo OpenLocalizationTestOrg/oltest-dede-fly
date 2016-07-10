@@ -1,5 +1,5 @@
 {
-  "LastProcessedCommit": "75e837d7035b487cac0280f88dd836cf74d4203e",
+  "LastProcessedCommit": "a0624daba4e9d719f6dc9d0e8712e27fee598072",
   "LastTranslatedCommit": "bb20cfa72dc5ef3f62f1ca6420e5d28d1b1d5ccb",
   "Items": {
     "455920a9c878b8d6783b05fdeee9c6fcbecf1dc5": {
@@ -66518,6 +66518,41 @@
       "HandbackException": null,
       "HandbackFailureTimes": 0,
       "UpdatedDateTime": "2016-07-10T08:53:52.8174361Z",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null,
+      "BilingualFilePath": null,
+      "BilingualFileCommit": null,
+      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualException": null
+    },
+    "75e6aa7d9973d79319f4ae38e94a356610767cf3": {
+      "FileHash": "75e6aa7d9973d79319f4ae38e94a356610767cf3",
+      "SourceFileCommit": "a0624daba4e9d719f6dc9d0e8712e27fee598072",
+      "SourceFilePath": "e2e\\15eaa633-7061-49fd-b178-241231c934a7.md",
+      "HandoffReason": 1,
+      "DependencyFrom": null,
+      "TokenReference": null,
+      "FilePathList": [
+        "e2e\\15eaa633-7061-49fd-b178-241231c934a7.md"
+      ],
+      "HasMetadata": false,
+      "TranslationType": 1,
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationTestOrg\\oltest-dede-fly\\ci\\ht\\15eaa633-7061-49fd-b178-241231c934a7.963702b443a1d5363bcd75db8fbac5e6ced66b07.de-de.xlf",
+      "HandoffFileCommit": "1365bcdd7527f7e459a180ac0ead1990b399bbf0",
+      "HandoffDateTime": "2016-07-10T08:54:17.3255937Z",
+      "HandoffPriority": "ht",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
