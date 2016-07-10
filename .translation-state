@@ -1,6 +1,6 @@
 {
   "LastProcessedCommit": "ec9a87608cd3c62459c87fc8e9f342e24ad934e2",
-  "LastTranslatedCommit": "5a528246224891cbd036fa6d50618de2f8373b35",
+  "LastTranslatedCommit": "f39ee4bb478b1881182128fb6d37ebbdbee140ca",
   "Items": {
     "455920a9c878b8d6783b05fdeee9c6fcbecf1dc5": {
       "FileHash": "455920a9c878b8d6783b05fdeee9c6fcbecf1dc5",
@@ -72542,9 +72542,17 @@
       "TargetFilePath": null,
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
-      "HandbackDateTime": "0001-01-01T00:00:00",
-      "HandbackException": null,
-      "HandbackFailureTimes": 0,
+      "HandbackDateTime": "2016-07-10T12:53:19.3006442Z",
+      "HandbackException": {
+        "internal_error_code": "handback_validate_file_name_invalide",
+        "internal_error_message": "Handback file name: s4v3tusn.aar is different with handoff file name: 227adf13-1c2c-47b7-8a48-10ecde0ac450.754cfc5187008181be351ce85e6ed7461d8abe96.de-de.",
+        "internal_error_retriable": false,
+        "exception_message": "Handback file name: s4v3tusn.aar is different with handoff file name: 227adf13-1c2c-47b7-8a48-10ecde0ac450.754cfc5187008181be351ce85e6ed7461d8abe96.de-de.",
+        "exception_type": "Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException",
+        "stack_trace": null,
+        "extended_information": null
+      },
+      "HandbackFailureTimes": 1,
       "UpdatedDateTime": "0001-01-01T00:00:00",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
