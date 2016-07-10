@@ -1,6 +1,6 @@
 {
   "LastProcessedCommit": "cac73f95ae6cab344c4de5ab2b0971c688f6d6d7",
-  "LastTranslatedCommit": "924aa404e0d2dc901171d9778e2a73f3db4a462b",
+  "LastTranslatedCommit": "7984d8dc697cb47952e1ac76b08117a601c4d838",
   "Items": {
     "455920a9c878b8d6783b05fdeee9c6fcbecf1dc5": {
       "FileHash": "455920a9c878b8d6783b05fdeee9c6fcbecf1dc5",
@@ -66584,9 +66584,17 @@
       "TargetFilePath": null,
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
-      "HandbackDateTime": "0001-01-01T00:00:00",
-      "HandbackException": null,
-      "HandbackFailureTimes": 0,
+      "HandbackDateTime": "2016-07-10T08:55:32.6713768Z",
+      "HandbackException": {
+        "internal_error_code": "handback_validate_file_name_invalide",
+        "internal_error_message": "Handback file name: 22pmvzu4.1gu is different with handoff file name: 739cb7fd-31bb-4734-b33b-911d0b60e8fd.4d55c56272bffdac2e47108b1be2aa7d6d7def6e.de-de.",
+        "internal_error_retriable": false,
+        "exception_message": "Handback file name: 22pmvzu4.1gu is different with handoff file name: 739cb7fd-31bb-4734-b33b-911d0b60e8fd.4d55c56272bffdac2e47108b1be2aa7d6d7def6e.de-de.",
+        "exception_type": "Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException",
+        "stack_trace": null,
+        "extended_information": null
+      },
+      "HandbackFailureTimes": 1,
       "UpdatedDateTime": "0001-01-01T00:00:00",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
