@@ -1,6 +1,6 @@
 {
   "LastProcessedCommit": "569c83ddd25cc56f20e5820359057517b9b846b4",
-  "LastTranslatedCommit": "2cba225ce207906f67e45f559953cd34821cb356",
+  "LastTranslatedCommit": "9cf9f92ac60075fd761b361a06896d5d87fc441a",
   "Items": {
     "455920a9c878b8d6783b05fdeee9c6fcbecf1dc5": {
       "FileHash": "455920a9c878b8d6783b05fdeee9c6fcbecf1dc5",
@@ -60775,9 +60775,17 @@
       "TargetFilePath": null,
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
-      "HandbackDateTime": "0001-01-01T00:00:00",
-      "HandbackException": null,
-      "HandbackFailureTimes": 0,
+      "HandbackDateTime": "2016-07-10T04:54:15.4511483Z",
+      "HandbackException": {
+        "internal_error_code": "handback_validate_file_name_invalide",
+        "internal_error_message": "Handback file name: 2eow0cgi.1vy is different with handoff file name: 5eac9333-0754-47b7-8813-bc70a4843c22.06913eda9ca042e7bb7ca978aa2b2d7be9bbc6fd.de-de.",
+        "internal_error_retriable": false,
+        "exception_message": "Handback file name: 2eow0cgi.1vy is different with handoff file name: 5eac9333-0754-47b7-8813-bc70a4843c22.06913eda9ca042e7bb7ca978aa2b2d7be9bbc6fd.de-de.",
+        "exception_type": "Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException",
+        "stack_trace": null,
+        "extended_information": null
+      },
+      "HandbackFailureTimes": 1,
       "UpdatedDateTime": "0001-01-01T00:00:00",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
