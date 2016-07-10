@@ -1,5 +1,5 @@
 {
-  "LastProcessedCommit": "a31997b29adf236bbeb98ccf8ed3e9e79fb3a4d4",
+  "LastProcessedCommit": "ff8806dee92c3e4b3d838047dd3a6b0dfa45f3ed",
   "LastTranslatedCommit": "430eeabf6469434d9b747553c829d1e607fb4c75",
   "Items": {
     "455920a9c878b8d6783b05fdeee9c6fcbecf1dc5": {
@@ -54081,6 +54081,41 @@
       "ArchiveFilePath": "ol-archive\\OpenLocalizationTestOrg\\oltest-dede-fly\\ci\\ht\\e3d3aed8-1112-475f-8624-ece6aaf5ed3e.d938388128fa2e4b9aff71254e196606ef3cd11c.de-de.xlf",
       "ArchiveFileCommit": "927681cd28063dbd0f3259440968f1aed302aa37",
       "ArchiveFileDateTime": "2016-07-10T00:36:51.2038306Z",
+      "ArchiveException": null,
+      "BilingualFilePath": null,
+      "BilingualFileCommit": null,
+      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualException": null
+    },
+    "9e0042c892f04ed7b051ef46b24d3a9e960b64fe": {
+      "FileHash": "9e0042c892f04ed7b051ef46b24d3a9e960b64fe",
+      "SourceFileCommit": "ff8806dee92c3e4b3d838047dd3a6b0dfa45f3ed",
+      "SourceFilePath": "e2e\\e3d3aed8-1112-475f-8624-ece6aaf5ed3e.md",
+      "HandoffReason": 1,
+      "DependencyFrom": null,
+      "TokenReference": null,
+      "FilePathList": [
+        "e2e\\e3d3aed8-1112-475f-8624-ece6aaf5ed3e.md"
+      ],
+      "HasMetadata": false,
+      "TranslationType": 1,
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationTestOrg\\oltest-dede-fly\\ci\\ht\\e3d3aed8-1112-475f-8624-ece6aaf5ed3e.d938388128fa2e4b9aff71254e196606ef3cd11c.de-de.xlf",
+      "HandoffFileCommit": "773ffcbeb5575307e41524ff2d862dca6b68f971",
+      "HandoffDateTime": "2016-07-10T00:37:15.4778161Z",
+      "HandoffPriority": "ht",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
       "ArchiveException": null,
       "BilingualFilePath": null,
       "BilingualFileCommit": null,
