@@ -1,6 +1,6 @@
 {
   "LastProcessedCommit": "292809142704468476690ae229c69a8b4fce8a31",
-  "LastTranslatedCommit": "9982f4a5837529e7c1017369a5fd0b876c5ff60a",
+  "LastTranslatedCommit": "c3628d4bd04c8e8e2fa2d2d021dcb528c18a3750",
   "Items": {
     "455920a9c878b8d6783b05fdeee9c6fcbecf1dc5": {
       "FileHash": "455920a9c878b8d6783b05fdeee9c6fcbecf1dc5",
@@ -57718,9 +57718,17 @@
       "TargetFilePath": null,
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
-      "HandbackDateTime": "0001-01-01T00:00:00",
-      "HandbackException": null,
-      "HandbackFailureTimes": 0,
+      "HandbackDateTime": "2016-07-10T02:48:47.8191341Z",
+      "HandbackException": {
+        "internal_error_code": "handback_validate_file_name_invalide",
+        "internal_error_message": "Handback file name: htrkdhwc.kvi is different with handoff file name: 891d708d-b97c-49dd-8992-87d6816d9a77.87bb2682e663ac237552a45dbcf1496266afa077.de-de.",
+        "internal_error_retriable": false,
+        "exception_message": "Handback file name: htrkdhwc.kvi is different with handoff file name: 891d708d-b97c-49dd-8992-87d6816d9a77.87bb2682e663ac237552a45dbcf1496266afa077.de-de.",
+        "exception_type": "Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException",
+        "stack_trace": null,
+        "extended_information": null
+      },
+      "HandbackFailureTimes": 1,
       "UpdatedDateTime": "0001-01-01T00:00:00",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
